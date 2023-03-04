@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<table border="1">
+		<tr>
+			<th><a href="./main.jsp">Home</a></th>
+			<th><a href="./menu.jsp">Menu</a></th>
+			<th><a href="./navi.jsp">Navigation</a></th>
+			<th><a href="./chains.jsp">Chains</a></th>
+			<th><a href="./sitemap.jsp">Site map</a></th>
+		</tr>
+		<tr>
+			<th>
+				<ul>
+					<li>side menu1</li>
+					<li>side menu2</li>
+					<li>side menu3</li>
+					<li>side menu4</li>
+					<li>side menu5</li>
+				</ul>
+			</th>
+			<th  colspan="4">
