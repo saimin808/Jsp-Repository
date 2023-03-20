@@ -43,8 +43,13 @@ JSP 수업 자료
  
  - Chap09
   1) Cookie
-
+ <br>
+ 
  - Chap10
   1) JSP include
   2) File include
+ <br>
+ 
+ - 최종 연습
+  1) JSP로 게시판 만들기 (JspBoard)
  
